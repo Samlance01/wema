@@ -24,15 +24,3 @@ This project was deployed from my local machine and now auto-deploys from GitHub
 git clone https://github.com/Samlance01/wema.git
 cd wema
 dotnet run
-```
-
-## 📂 Folder Structure
-```
-📁 Pages/          # Razor pages
-📁 wwwroot/        # Static files
-📄 Program.cs      # Main app entry
-📄 wema.csproj     # Project config
-```
-
-## 📜 License
-MIT
