@@ -1,0 +1,7 @@
+C:\Users\Samuel\HelloAzure\bin\Release\net8.0\publish\HelloAzure.exe
+C:\Users\Samuel\HelloAzure\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Samuel\HelloAzure\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Samuel\HelloAzure\bin\Release\net8.0\publish\HelloAzure.dll
+C:\Users\Samuel\HelloAzure\bin\Release\net8.0\publish\HelloAzure.deps.json
+C:\Users\Samuel\HelloAzure\bin\Release\net8.0\publish\HelloAzure.runtimeconfig.json
+C:\Users\Samuel\HelloAzure\bin\Release\net8.0\publish\HelloAzure.pdb
