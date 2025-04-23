@@ -1,0 +1,20 @@
+## Ignore build results
+bin/
+obj/
+out/
+
+## Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore VSCode
+.vscode/
+
+## Ignore published outputs
+*.publish/
+
+## Environment & settings
+.env
+*.log
