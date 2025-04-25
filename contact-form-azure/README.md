@@ -15,6 +15,11 @@ This project showcases a **full-stack serverless contact form** built using **Az
 - Returns JSON responses
 - Logs the message server-side
 
+### 🚀 Built Three Functions In Azure Portal
+- submitMessage - Accepts and validates contact form data via POST /api/submitMessage
+- getHealth - Returns API status via GET /api/getHealth
+- getMessages - Returns mock messages for demo purposes via GET /api/getMessages 
+
 ### 💻 Created a Fully Functional Frontend (HTML + JS)
 - Clean, responsive contact form
 - Sends data using `fetch()` to the API
@@ -77,4 +82,4 @@ This project showcases a **full-stack serverless contact form** built using **Az
 
 ## 🤝 Connect
 
-Built with ❤️ by [Samuel Enwema](https://www.linkedin.com/in/samuelenwema)
+Created by [Samuel Enwema](https://www.linkedin.com/in/samuel-enwema-39047b179)
