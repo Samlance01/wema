@@ -69,7 +69,7 @@ This project showcases a **full-stack serverless contact form** built using **Az
 2. Fill out name, email, and message
 3. Click “Send Message”
 4. Success message appears (from API)
-
+5. You can chck it out at: https://samlance01.github.io/wema/contact-form-frontend
 ---
 
 ## 🤝 Connect
