@@ -55,14 +55,6 @@ This project showcases a **full-stack serverless contact form** built using **Az
 
 ---
 
-## 📸 Screenshots (Add these in repo)
-- Azure Portal test success
-- Frontend form working
-- Error-to-success transition
-- Console logs (optional)
-
----
-
 ## 🧭 Next Steps (Coming Soon)
 - 🌐 Host frontend using GitHub Pages
 - ✉️ Send email using SendGrid
